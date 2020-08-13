@@ -25,7 +25,9 @@
         "favicon",
         "todo",
         "emphasize",
-        "disqus"
+        "disqus",
+        "graph",
+        "-katex"
     ],
     "pluginsConfig":{
         "disqus": {
